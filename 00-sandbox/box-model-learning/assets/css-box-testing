@@ -1,0 +1,14 @@
+div{
+    background-color:lightgrey;
+    display: inline-block;
+
+    padding: 50px;
+    border: 10px solid blue;
+
+    margin: 50px 100px 20px;
+}
+
+h2{
+    margin: 0;
+
+}
