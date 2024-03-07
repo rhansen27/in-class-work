@@ -1,0 +1,24 @@
+.wrapper{
+    display: flex;
+   /* flex-direction: column;
+    justify-content: space-around;*/
+    align-items: ;
+    background: black;
+    height: 600px;
+} 
+
+.box{
+    background-color: royalblue;
+    width: 150px;
+    height: 150px;
+}
+
+#box2{
+    background-color: orange;
+    height: 200px;
+}
+
+#box3{
+    background-color: limegreen;
+    height: 250px;
+}
